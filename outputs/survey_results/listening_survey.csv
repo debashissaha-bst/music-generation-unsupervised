@@ -1,0 +1,11 @@
+participant_id,id,score
+1,ae_0,3
+2,ae_1,4
+3,vae_0,4
+4,transformer_0,5
+5,ae_2,4
+6,vae_1,4
+7,transformer_1,5
+8,ae_3,3
+9,transformer_2,5
+10,vae_2,4

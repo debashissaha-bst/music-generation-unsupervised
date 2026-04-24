@@ -1,0 +1,11 @@
+.venv/
+env/
+venv/
+Thumbs.db
+**/pycache/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.ipynb_checkpoints/
+outputs/checkpoints/

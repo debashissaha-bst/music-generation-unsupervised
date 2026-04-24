@@ -1,0 +1,12 @@
+{
+  "generated_midis": {
+    "mean_rhythm_diversity": 0.03165854268216472,
+    "mean_repetition_ratio": 0.454897718332022,
+    "n": 20
+  },
+  "baseline_markov": {
+    "mean_rhythm_diversity": 0.3816377171215881,
+    "mean_repetition_ratio": 0.0,
+    "n": 5
+  }
+}

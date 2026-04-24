@@ -1,0 +1,102 @@
+[
+  {
+    "file": "ae_gen_0.mid",
+    "rhythm_diversity": 0.007874015748031496,
+    "repetition_ratio": 0.9919354838709677
+  },
+  {
+    "file": "ae_gen_1.mid",
+    "rhythm_diversity": 0.007874015748031496,
+    "repetition_ratio": 0.9919354838709677
+  },
+  {
+    "file": "ae_gen_2.mid",
+    "rhythm_diversity": 0.015748031496062992,
+    "repetition_ratio": 0.9838709677419355
+  },
+  {
+    "file": "ae_gen_3.mid",
+    "rhythm_diversity": 0.007874015748031496,
+    "repetition_ratio": 0.9919354838709677
+  },
+  {
+    "file": "ae_gen_4.mid",
+    "rhythm_diversity": 0.007874015748031496,
+    "repetition_ratio": 0.9919354838709677
+  },
+  {
+    "file": "rlhf_gen_0.mid",
+    "rhythm_diversity": 0.023809523809523808,
+    "repetition_ratio": 0.03252032520325199
+  },
+  {
+    "file": "rlhf_gen_1.mid",
+    "rhythm_diversity": 0.06349206349206349,
+    "repetition_ratio": 0.0
+  },
+  {
+    "file": "rlhf_gen_2.mid",
+    "rhythm_diversity": 0.031746031746031744,
+    "repetition_ratio": 0.0
+  },
+  {
+    "file": "rlhf_gen_3.mid",
+    "rhythm_diversity": 0.047619047619047616,
+    "repetition_ratio": 0.0
+  },
+  {
+    "file": "rlhf_gen_4.mid",
+    "rhythm_diversity": 0.1111111111111111,
+    "repetition_ratio": 0.008130081300813052
+  },
+  {
+    "file": "transformer_gen_0.mid",
+    "rhythm_diversity": 0.023809523809523808,
+    "repetition_ratio": 0.0
+  },
+  {
+    "file": "transformer_gen_1.mid",
+    "rhythm_diversity": 0.031746031746031744,
+    "repetition_ratio": 0.008130081300813052
+  },
+  {
+    "file": "transformer_gen_2.mid",
+    "rhythm_diversity": 0.031746031746031744,
+    "repetition_ratio": 0.13008130081300817
+  },
+  {
+    "file": "transformer_gen_3.mid",
+    "rhythm_diversity": 0.015873015873015872,
+    "repetition_ratio": 0.0
+  },
+  {
+    "file": "transformer_gen_4.mid",
+    "rhythm_diversity": 0.1732283464566929,
+    "repetition_ratio": 0.0
+  },
+  {
+    "file": "vae_gen_0_g0.mid",
+    "rhythm_diversity": 0.0,
+    "repetition_ratio": 0.0
+  },
+  {
+    "file": "vae_gen_1_g1.mid",
+    "rhythm_diversity": 0.007936507936507936,
+    "repetition_ratio": 0.991869918699187
+  },
+  {
+    "file": "vae_gen_2_g2.mid",
+    "rhythm_diversity": 0.007936507936507936,
+    "repetition_ratio": 0.991869918699187
+  },
+  {
+    "file": "vae_gen_3_g3.mid",
+    "rhythm_diversity": 0.007936507936507936,
+    "repetition_ratio": 0.991869918699187
+  },
+  {
+    "file": "vae_gen_4_g4.mid",
+    "rhythm_diversity": 0.007936507936507936,
+    "repetition_ratio": 0.991869918699187
+  }
+]

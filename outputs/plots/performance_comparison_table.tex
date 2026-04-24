@@ -1,0 +1,17 @@
+\begin{table}[!htb]
+\caption{Performance Comparison of Baseline and Task-Level Models}
+\label{tab:performance_comparison}
+\centering
+\begin{tabular}{lcccc}
+\hline
+\textbf{Model} & \textbf{Perplexity} & \textbf{Rhythm Diversity} & \textbf{Human Score} & \textbf{Genre Control} \\
+\hline
+Random Generator & -- & 0.2946 & -- & None \\
+Markov Chain & -- & 0.4325 & -- & Weak \\
+Task 1: Autoencoder & -- & 0.0094 & 3.5 & Single Genre \\
+Task 2: VAE Multi-Genre & -- & 0.0063 & 4.0 & Moderate \\
+Task 3: Transformer & 89.39 & 0.0553 & 5.0 & Strong \\
+Task 4: RLHF-Tuned Model & -- & 0.0556 & Not collected & Strongest \\
+\hline
+\end{tabular}
+\end{table}
