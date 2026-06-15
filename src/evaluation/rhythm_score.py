@@ -22,7 +22,6 @@ def rhythm_diversity(path: Path | str) -> float:
 
 
 def repetition_ratio(path: Path | str, window: int = 4) -> float:
-    """Approximate repeated pitch n-gram ratio."""
     pm = pretty_midi.PrettyMIDI(str(path))
     pitches = []
     for ins in pm.instruments:
